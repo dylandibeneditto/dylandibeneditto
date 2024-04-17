@@ -10,6 +10,10 @@
 ### backend web
 - Node.js
 - Python
+- Ruby
 ### other
 - C++
 - Swift / SwiftUI
+- Java
+- Rust
+- C#
