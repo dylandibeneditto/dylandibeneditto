@@ -1,3 +1,5 @@
+# [See My Portfolio](https://dylandibeneditto.github.io/portfolio/)
+
 # about me
 6+ years of experience in programming, with expertise in front-end web development and web/graphic design
 
