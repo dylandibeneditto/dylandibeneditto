@@ -5,16 +5,18 @@
 
 # my skills
 ### frontend web
-- JavaScript
-- TypeScript
+- JavaScript/ TypeScript
 - HTML / CSS
 - React.js / Next.js
+- Three.js
 ### backend web
 - Node.js
 - Python
 - Ruby
 ### other
-- C++
+- C++ / C
 - Swift / SwiftUI
 - Java
 - Rust
+- Go
+- Bash
