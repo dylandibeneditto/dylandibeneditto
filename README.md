@@ -1,1 +1,1 @@
-[See My Portfolio](https://dylandibeneditto.github.io/portfolio/)
+[See My Portfolio](https://dylandibeneditto.github.io/)
