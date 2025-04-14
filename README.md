@@ -1,6 +1,8 @@
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=dylandibeneditto&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=dylandibeneditto&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylandibeneditto&langs_count=20&hide_title=true&hide_border=true&layout=compact" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylandibeneditto&langs_count=20&hide_title=true&hide_border=true&layout=compact" />
 </a>
+</div>
