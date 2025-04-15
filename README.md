@@ -6,3 +6,7 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylandibeneditto&langs_count=20&hide_title=true&hide_border=true&layout=compact" />
 </a>
 </div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dylandibeneditto" />
+</div>
