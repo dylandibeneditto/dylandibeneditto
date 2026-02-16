@@ -1,1 +1,3 @@
-See my [Portfolio](https://dylandibeneditto.github.io/)
+<br>
+<div align="center">See my <a href="https://dylandibeneditto.github.io/">Portfolio</a></div>
+<br>
